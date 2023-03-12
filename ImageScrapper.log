@@ -1,0 +1,199 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://192.168.1.1:8000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:39:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:39:38] "GET /static/css/main.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:39:38] "GET /static/css/style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:39:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:root:Creating the working directory for storing image
+INFO:root:new directory is created at /home/bhavya/Data Science/Python/ImageScrapper/Singapore_images with 0o777 permission
+INFO:root:Image Search URL is https://www.google.com/search?q=Singapore&sxsrf=AJOqlzUDwlAfT3oEP37VZQzo3twoaqIM2Q:1678615119132&source=lnms&tbm=isch&sa=X&ved=2ahUKEwikpY_PkNb9AhV17zgGHRBEDU4Q_AUoA3oECAIQBQ&biw=1846&bih=948&dpr=1
+INFO:root:Response Received from the url is <Response [200]>
+INFO:root:sourced all the image tags
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY61Wenmr4QVc4IknlJiY0xvjjQm6Vjs6ttXmkZDncFpp-VSNjX5NX-j9wJA&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRur0hUwkG6JxEHYApghIpiqQABXNlsiYplRPTdfldahfERjBmITuhugS9TRw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalA6XbF5N5FE_49CLhFw6n571VuxyeuRPVwJFoL3uaaNPi3b4xpyn4eGtOu4&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtVJET9TNI1Cf3YZ8eQv51a_lUq8nztpMEW57vW-EoKe3B16qI7EelVA--e8&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBDt8dyNoiw84aCO5IdzjF__SDEIoaXne1rzep9qo8t0S2OwWkFm2euIa4XM&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbBMM1TyRUzrNjNfRzqXlDzJvwFhfdTwWVWz5YCKyJ0V6uyV4cbRFsifCDg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4b6UUEYgbbjO3EXcPyVDo5mBg9jKRhR-bv702h_gcbCAs_GPkjVxbUY21CyY&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvewmaNhp4Jf2e_9e8XNREb5MwUeQFNQnMomEsV9SLEy-_a-w332iMwub4RQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjQvgsijMLdf1hNODQXgveo5ocE3CSgeY3pzuanFAsrrZkOhbswO2D1NTsg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT4wnvS6mBtis8RhPgVqB0ydL21wBsAtT6_pI7flKgJI5wc9dyQQkdzDw7zM&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLzm2_fwK0ugnuEVv5i_BN9e_2FBMs0lU4vo9x3oIktwVQ69ekzHmjepcKiQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFbhz2nYy2u4BXaCsHD9DxxIpgsvFfZfqQTH61cx6BWw--VR2SyQ1f3R90FM&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_3TlavseUF-ELtd0YBQh2o7GZff9QXxL-y6ZEtubguT34XIm_bk7U9xV2Q&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGVZNW72fizRwUp7oVxrV7mvYi5tNKXsgtKahuomZOw9UVUlocHwkSmJ1WQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfUCCopxFoXj4-Ddn713y6Apz-yNB1X0hKqQuVguGH5bAxzKeekCVtL9WDg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj87M_ryKiRicOm2SbtJ12WnUbV6M1WywvVbl1q5CzytoQWVtCL4pSaTZTUS8&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZwSjqPD-jAngtmi5-nYxmUdIeHiTe8QIMFHuS8195Yw9hf6znmXGgZBnBmI&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaLZWFu5sM-qaEhXKjaPo9KkYSQD_PexYl0KnvimYUFedZkCFJ0F15kfxZKw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrYHZpuWlVKs2T9OgAYCQQWSHoqrKHS5PGOVMisrZLlv9k7e0XGpFpGZsUQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCizotaRMyhsJs-JPncafXJOev5OIkvpY_1O2a2Q0Oj4f_Kty2AjTd50s_yD8&s
+INFO:root:Creating the working directory for storing image
+INFO:root:Image Search URL is https://www.google.com/search?q=Singapore&sxsrf=AJOqlzUDwlAfT3oEP37VZQzo3twoaqIM2Q:1678615119132&source=lnms&tbm=isch&sa=X&ved=2ahUKEwikpY_PkNb9AhV17zgGHRBEDU4Q_AUoA3oECAIQBQ&biw=1846&bih=948&dpr=1
+INFO:root:Appending the dictionary data into list
+INFO:root:Connection to MongoDB Atlas was successful
+INFO:root:Connected to the collection ImageScrapper
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:39:49] "POST /review HTTP/1.1" 200 -
+INFO:root:Response Received from the url is <Response [200]>
+INFO:root:sourced all the image tags
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY61Wenmr4QVc4IknlJiY0xvjjQm6Vjs6ttXmkZDncFpp-VSNjX5NX-j9wJA&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRur0hUwkG6JxEHYApghIpiqQABXNlsiYplRPTdfldahfERjBmITuhugS9TRw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSalA6XbF5N5FE_49CLhFw6n571VuxyeuRPVwJFoL3uaaNPi3b4xpyn4eGtOu4&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhtVJET9TNI1Cf3YZ8eQv51a_lUq8nztpMEW57vW-EoKe3B16qI7EelVA--e8&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWBDt8dyNoiw84aCO5IdzjF__SDEIoaXne1rzep9qo8t0S2OwWkFm2euIa4XM&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLbBMM1TyRUzrNjNfRzqXlDzJvwFhfdTwWVWz5YCKyJ0V6uyV4cbRFsifCDg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4b6UUEYgbbjO3EXcPyVDo5mBg9jKRhR-bv702h_gcbCAs_GPkjVxbUY21CyY&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvewmaNhp4Jf2e_9e8XNREb5MwUeQFNQnMomEsV9SLEy-_a-w332iMwub4RQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTjQvgsijMLdf1hNODQXgveo5ocE3CSgeY3pzuanFAsrrZkOhbswO2D1NTsg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjT4wnvS6mBtis8RhPgVqB0ydL21wBsAtT6_pI7flKgJI5wc9dyQQkdzDw7zM&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLzm2_fwK0ugnuEVv5i_BN9e_2FBMs0lU4vo9x3oIktwVQ69ekzHmjepcKiQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRFbhz2nYy2u4BXaCsHD9DxxIpgsvFfZfqQTH61cx6BWw--VR2SyQ1f3R90FM&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK_3TlavseUF-ELtd0YBQh2o7GZff9QXxL-y6ZEtubguT34XIm_bk7U9xV2Q&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrGVZNW72fizRwUp7oVxrV7mvYi5tNKXsgtKahuomZOw9UVUlocHwkSmJ1WQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzfUCCopxFoXj4-Ddn713y6Apz-yNB1X0hKqQuVguGH5bAxzKeekCVtL9WDg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj87M_ryKiRicOm2SbtJ12WnUbV6M1WywvVbl1q5CzytoQWVtCL4pSaTZTUS8&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZwSjqPD-jAngtmi5-nYxmUdIeHiTe8QIMFHuS8195Yw9hf6znmXGgZBnBmI&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReaLZWFu5sM-qaEhXKjaPo9KkYSQD_PexYl0KnvimYUFedZkCFJ0F15kfxZKw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNrYHZpuWlVKs2T9OgAYCQQWSHoqrKHS5PGOVMisrZLlv9k7e0XGpFpGZsUQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCizotaRMyhsJs-JPncafXJOev5OIkvpY_1O2a2Q0Oj4f_Kty2AjTd50s_yD8&s
+INFO:root:Appending the dictionary data into list
+INFO:root:Connection to MongoDB Atlas was successful
+INFO:root:Connected to the collection ImageScrapper
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:39:51] "POST /review HTTP/1.1" 200 -
+INFO:root:Creating the working directory for storing image
+INFO:root:new directory is created at /home/bhavya/Data Science/Python/ImageScrapper/Ma Lin _images with 0o777 permission
+INFO:root:Image Search URL is https://www.google.com/search?q=Ma+Lin+&sxsrf=AJOqlzUDwlAfT3oEP37VZQzo3twoaqIM2Q:1678615119132&source=lnms&tbm=isch&sa=X&ved=2ahUKEwikpY_PkNb9AhV17zgGHRBEDU4Q_AUoA3oECAIQBQ&biw=1846&bih=948&dpr=1
+INFO:root:Response Received from the url is <Response [200]>
+INFO:root:sourced all the image tags
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8g8ojbPKrDp0kHsc2XKf5dhkgsgjW7kSxAfTsfDhBRosIml558YiN6DirA&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkJ3ZAHTM-SnqWATw2i2FUK04hkGQ27V9ea3GDWBpyogwJiGJ5QS7vhN83g&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfh1npsfZoheDazcUXP4ELAGj4kY32QqxYXLioV8Y4EWMfnPhYYD5ygBAdwE&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafv73L0QY4bd97B0iz6dZzBvRWo-hhBbf8uD3-p0_I3Yxo_uLrueXCSyDD8E&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDE3TLmvdwSXiwJZj9Wqy8s73lWxKPFY9aw2jBLy7Y-GkWM0E9lA6WMFOce0M&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarVdc1qQOA3S_uWQnV8fmJpyqPxPbwOP6I71a5QdAA5QWFSg57c1Q1UNmEQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJmpG9LBFY8p34-A06djTbU_TrTn-TOdSWgzJHiOD1C_74giEXdIqqGbH7g&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkZ3whQt0HdnYrTwBEQSCVjIMfM-iK-tUOTIAVyX-cU2cTIKw4LEKYt-Qug&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-trff-re21mt3A-cHuv1Ofw7TESgXEX-mYgIvp8A8D5YhuBIhewyVbKeVUw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNypgIeOqc3wfK16Dw6USVEGxc4nrOgfmN7ehn32yiLqPp8whj73xEYeQWsg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ijyP5gEQWocIT3lxclDIJ2jCcVN8u1oPqpYRi8BCmkdyuPr8iTmX1J1dkg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwduRNRmTfMqnVvf28Fd9a2MsZRcxElcIuJfOhAJkIrc0OCDusx-VBkb_Hy0&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikcLxQKK_4VK8jmzNFtV8fk5xqjr-ezEq3DgOCeZO0tE6P5_J1Rm5q7ifSuQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNp9OmasBMCL0_dPgddWil_8L7fgFclau8u8zee-puBAlQgu1f_Cfk1-HP5w&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5fuidFp6nCmkw_-G4bt8ssmg5nYKxLtYDkSzZ6gm63Godi0hcxjavdkN504&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDs5OcZaudAlE2mECumvQVsinh069naaHyga4ccJNxQyUn-karpx-xC0drpEA&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOIurBqr4VtUdgxi8DvNUJ6bBijls4MkvhqWNIN-YsNM0vWmEAq6wd3nCHfw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-hni7st5ltrjHeOBLzSfvj-hTTDwH6GA1Taqkoghvv8A87gyeK3c5R2LWQ&s
+INFO:root:Creating the working directory for storing image
+INFO:root:Image Search URL is https://www.google.com/search?q=Ma+Lin+&sxsrf=AJOqlzUDwlAfT3oEP37VZQzo3twoaqIM2Q:1678615119132&source=lnms&tbm=isch&sa=X&ved=2ahUKEwikpY_PkNb9AhV17zgGHRBEDU4Q_AUoA3oECAIQBQ&biw=1846&bih=948&dpr=1
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsC8zGPSbL8icTF1_TcZmzwiO4RfoYEoIwnHxYNKqfE93BY5u7xe_IoX7B-Q&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7LLjCxI5ae-An9lY7H9S4X1wYuxzXTR0nwU2T3S7r9DHn9Ay1k17d6o2mlQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:Connection to MongoDB Atlas was successful
+INFO:root:Connected to the collection ImageScrapper
+INFO:root:Response Received from the url is <Response [200]>
+INFO:root:sourced all the image tags
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTD8g8ojbPKrDp0kHsc2XKf5dhkgsgjW7kSxAfTsfDhBRosIml558YiN6DirA&s
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:40:19] "POST /review HTTP/1.1" 200 -
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnkJ3ZAHTM-SnqWATw2i2FUK04hkGQ27V9ea3GDWBpyogwJiGJ5QS7vhN83g&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfh1npsfZoheDazcUXP4ELAGj4kY32QqxYXLioV8Y4EWMfnPhYYD5ygBAdwE&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRafv73L0QY4bd97B0iz6dZzBvRWo-hhBbf8uD3-p0_I3Yxo_uLrueXCSyDD8E&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDE3TLmvdwSXiwJZj9Wqy8s73lWxKPFY9aw2jBLy7Y-GkWM0E9lA6WMFOce0M&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRarVdc1qQOA3S_uWQnV8fmJpyqPxPbwOP6I71a5QdAA5QWFSg57c1Q1UNmEQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLJmpG9LBFY8p34-A06djTbU_TrTn-TOdSWgzJHiOD1C_74giEXdIqqGbH7g&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZkZ3whQt0HdnYrTwBEQSCVjIMfM-iK-tUOTIAVyX-cU2cTIKw4LEKYt-Qug&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-trff-re21mt3A-cHuv1Ofw7TESgXEX-mYgIvp8A8D5YhuBIhewyVbKeVUw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNypgIeOqc3wfK16Dw6USVEGxc4nrOgfmN7ehn32yiLqPp8whj73xEYeQWsg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ijyP5gEQWocIT3lxclDIJ2jCcVN8u1oPqpYRi8BCmkdyuPr8iTmX1J1dkg&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwwduRNRmTfMqnVvf28Fd9a2MsZRcxElcIuJfOhAJkIrc0OCDusx-VBkb_Hy0&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQikcLxQKK_4VK8jmzNFtV8fk5xqjr-ezEq3DgOCeZO0tE6P5_J1Rm5q7ifSuQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNp9OmasBMCL0_dPgddWil_8L7fgFclau8u8zee-puBAlQgu1f_Cfk1-HP5w&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn5fuidFp6nCmkw_-G4bt8ssmg5nYKxLtYDkSzZ6gm63Godi0hcxjavdkN504&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDs5OcZaudAlE2mECumvQVsinh069naaHyga4ccJNxQyUn-karpx-xC0drpEA&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwOIurBqr4VtUdgxi8DvNUJ6bBijls4MkvhqWNIN-YsNM0vWmEAq6wd3nCHfw&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ-hni7st5ltrjHeOBLzSfvj-hTTDwH6GA1Taqkoghvv8A87gyeK3c5R2LWQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsC8zGPSbL8icTF1_TcZmzwiO4RfoYEoIwnHxYNKqfE93BY5u7xe_IoX7B-Q&s
+INFO:root:Appending the dictionary data into list
+INFO:root:image url is:- https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7LLjCxI5ae-An9lY7H9S4X1wYuxzXTR0nwU2T3S7r9DHn9Ay1k17d6o2mlQ&s
+INFO:root:Appending the dictionary data into list
+INFO:root:Connection to MongoDB Atlas was successful
+INFO:root:Connected to the collection ImageScrapper
+INFO:werkzeug:127.0.0.1 - - [12/Mar/2023 18:40:21] "POST /review HTTP/1.1" 200 -
